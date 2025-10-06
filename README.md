@@ -2,7 +2,7 @@
 Demonstration of Linear Regression in two ways:  
    
 ### Method 1: With matplotlib and numpy   
-  Created after follwing the first lecture on Stanford's CS-229 course on Linear Regression:   
+  Created after follwing the first lecture on Stanford's CS-229 course:   
   [Link to video](https://youtu.be/4b4MUYve_U8?si=Tc8uLpre2gISXxjT)   
 
 ### Method 2: With sklearn   
