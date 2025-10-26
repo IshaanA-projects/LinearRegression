@@ -1,4 +1,4 @@
-# LinearRegression
+## LinearRegression
 Demonstration of Linear Regression in two ways:  
    
 ### Method 1: With matplotlib and numpy   
