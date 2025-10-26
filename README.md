@@ -1,5 +1,6 @@
 # Machine Learning Projects   
-A group of various ML projects in Python
+A group of various ML projects in Python   
+Most have been created following [this](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/#google_vignette) website, both from scratch and using libraries such as sklearn
 
 ## LinearRegression
 Demonstration of Linear Regression in two ways:  
@@ -10,5 +11,7 @@ Demonstration of Linear Regression in two ways:
 
 ### Method 2: With sklearn   
   Created after following website tutorial   
-  [Link to website](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/#google_vignette)
+
+## KNN (K Nearest Neighbours)   
+Demonstration of KNN both from scratch and using sklearn
   
