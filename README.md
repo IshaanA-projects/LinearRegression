@@ -1,3 +1,6 @@
+# Machine Learning Projects   
+A group of various ML projects in Python
+
 ## LinearRegression
 Demonstration of Linear Regression in two ways:  
    
