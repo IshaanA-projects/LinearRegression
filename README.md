@@ -13,5 +13,8 @@ Demonstration of Linear Regression in two ways:
   Created after following website tutorial   
 
 ## KNN (K Nearest Neighbours)   
-Demonstration of KNN both from scratch and using sklearn
+Demonstration of KNN both from scratch and using sklearn   
+  
+## SVM (Support Vector Machine)
+Demontration of Support Vector Machines with sklearn
   
